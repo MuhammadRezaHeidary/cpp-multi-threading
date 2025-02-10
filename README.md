@@ -1,2 +1,2 @@
-# cpp-multitasking
-c++ multitasking
+# cpp-multithreading
+c++ multithreading
